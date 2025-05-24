@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blueskullMRX
+- 👋 Hi, I’m @blueskullMRX (amgrout zakaria )
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning AI & BigData 
 - 📫 How to reach me :
