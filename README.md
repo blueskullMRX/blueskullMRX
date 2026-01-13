@@ -2,8 +2,8 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning AI & BigData 
 - 📫 How to reach me :
-- Email    ->amgrout.zakaria@gmail.com
-- discord  -> blueskull_m9
+- Email    -> amgrout.zakaria@gmail.com
+- discord  -> blueskullmrx
 - Portfolio -> https://blueskullmrx.github.io/portfolio/
 
 <!---
