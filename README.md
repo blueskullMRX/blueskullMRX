@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blueskullMRX (amgrout zakaria )
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning AI & BigData 
+- 🌱 I’m currently an AI & BigData engineer
 - 📫 How to reach me :
 - Email    -> amgrout.zakaria@gmail.com
 - discord  -> blueskullmrx
